@@ -2,10 +2,10 @@
 # when a user gives an input python takes it as a string 
 
 
-a = input("Enter a first number") #taking input from user here I am asking number but python takes it as a string
-b = input("Entre a Second Number")#taking input from user here I am asking number but python takes it as a string
-x = int(a)  # changing the input string to integer 
-y = int(b)  # changing the input string to integer
+a = input("Enter a first number ") #taking input from user here I am asking number but python takes it as a string
+b = input("Entre a Second Number ")#taking input from user here I am asking number but python takes it as a string
+x = float(a)  # changing the input string to integer 
+y = float(b)  # changing the input string to integer
 
 c = x + y # Addition of two integer
 
