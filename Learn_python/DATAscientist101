@@ -1,0 +1,9 @@
+# Data scientist spend most of the time working to accquire and clean the data
+# And use those data to an algorithm 
+# Data keeps changing,thus a data scientist must run their algorithm to a valid and updated data
+# things done in data pilelines (Extract transform and load)
+# examples of few things done in data pipeline are
+#  1. string with date information is converted into vaid datetime
+#  2. Validate the data " Check if the given data provides valid information "
+#  3. Enrichment, add location to a user ip information 
+# these are the few examples that are done in data pipelines
